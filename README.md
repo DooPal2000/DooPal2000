@@ -12,8 +12,8 @@
 
 </div>
 
+## These days, what I'm learning (2023.8 ~ ) : Zoom_application, Udemy class, etc..
 <div align="center">    
-    ## These days, what I'm learning (2023.8 ~ )
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -23,8 +23,8 @@
 <br>
 <br>
 
+## What I used to use in the past : FootballMath etc.. 
 <div align="center">
-    ## What I used to use in the past
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
