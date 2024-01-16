@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
+</div>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooPal2000&layout=compact)](https://github.com/DooPal2000/github-readme-stats)
     ![KyoungYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooPal2000&show_icons=true&theme=radical) <br>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
