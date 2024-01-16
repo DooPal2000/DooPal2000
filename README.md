@@ -1,8 +1,16 @@
 ### Hi there 👋
 <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DooPal2000&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    </a>    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=DooPal2000&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DooPal2000&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    </a>
+
 </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooPal2000&layout=compact)](https://github.com/DooPal2000/github-readme-stats)
-    ![KyoungYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooPal2000&show_icons=true&theme=radical) <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
