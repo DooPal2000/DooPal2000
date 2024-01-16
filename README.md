@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooPal2000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
+
 **DooPal2000/DooPal2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
