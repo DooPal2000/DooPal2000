@@ -11,16 +11,15 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DooPal2000&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
     </a>
 </div>
-
+<br><br>
 <div align="center">
-    안녕하세요. 김경엽입니다. 24년 1월 기준 기업 재직 중입니다. <br>
-    꾸준히 성장하는 개발자가 되는 것이 목표입니다.
-    <br>
-    저는 기계공학과를 졸업했고, 그 당시부터 교양으로 프로그래밍을 시작했습니다.<br>
-    24년 7월경 컴퓨터공학 학사학위를 취득합니다.
+    🦒 안녕하세요. 김경엽입니다. 24년 1월 기준 재직 중입니다. <br><br>
+    🦒 꾸준히 성장하는 개발자가 되는 것이 목표입니다. <br><br>
+    🦒 저는 기계공학과를 졸업했고, 그 당시부터 교양으로 프로그래밍을 시작했습니다.<br><br>
+    🦒 24년 7월경 컴퓨터공학 학사학위를 취득합니다.<br><br>    
 </div>
 
-
+<br><br><br><br>
 **🌟 Stacks currently in use (23년 8월~ )  ex: Zoom_application, Udemy class, etc..**
 <div align="center">    
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
