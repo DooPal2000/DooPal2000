@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there 👋</div>
+### Hi there 👋 
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,7 +13,11 @@
 </div>
 
 <div align="center">
-    ### Hi there 👋
+    안녕하세요. 김경엽입니다. 24년 1월 기준 기업 재직 중입니다. <br>
+    꾸준히 성장하는 개발자가 되는 것이 목표입니다.
+    <br>
+    저는 기계공학과를 졸업했고, 그 당시부터 교양으로 프로그래밍을 시작했습니다.<br>
+    24년 7월경 컴퓨터공학 학사학위를 취득합니다.
 </div>
 
 
