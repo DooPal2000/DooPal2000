@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요 ^ㅇ^ 👋
+
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DooPal2000&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -12,7 +13,8 @@
 
 </div>
 
-## These days, what I'm learning (2023.8 ~ ) : Zoom_application, Udemy class, etc..
+## 요즘 제가 배우고 있는 스택은요... (23년 8월~ )  ex: Zoom_application, Udemy class, etc..
+<br><br>
 <div align="center">    
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
@@ -20,10 +22,10 @@
     <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-<br>
-<br>
+<br><br>
 
-## What I used to use in the past : FootballMath etc.. 
+## 제가 과거에 배웠던 스택은요...  : ex: FootballMath etc..
+<br><br>
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
