@@ -1,4 +1,4 @@
-### 안녕하세요 ^ㅇ^ 👋
+<div align="center"> ### Hi there 👋</div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,11 +10,14 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=DooPal2000&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
     </a>
-
 </div>
 
-## 요즘 제가 배우고 있는 스택은요... (23년 8월~ )  ex: Zoom_application, Udemy class, etc..
-<br><br>
+<div align="center">
+    ### Hi there 👋
+</div>
+
+
+**🌟 Stacks currently in use (23년 8월~ )  ex: Zoom_application, Udemy class, etc..**
 <div align="center">    
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
@@ -24,8 +27,7 @@
 </div>
 <br><br>
 
-## 제가 과거에 배웠던 스택은요...  : ex: FootballMath etc..
-<br><br>
+**🌟 Stacks used in the past  ex: FootballMath etc..**
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,9 +40,6 @@
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-
-
 
 
 
