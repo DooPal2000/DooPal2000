@@ -21,7 +21,7 @@
 </div>
  -->
 <br><br><br><br>
-**🌟 Stacks currently in use (2024)**
+**🌟 Stacks currently in use **
 <div align="center">    
     <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
